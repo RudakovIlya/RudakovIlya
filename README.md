@@ -55,6 +55,6 @@
 <h3 align="center">Codewars</h3>  
 <div align="center">
   
-![Codewars](https://github.r2v.ch/codewars?user=RudakovIlya&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=asap_alh&stroke=%23BB432C)
   
 </div>
