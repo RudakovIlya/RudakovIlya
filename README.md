@@ -48,7 +48,7 @@
 <h3 align="center">Stats</h3>
 <div align="center"> 
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=RudakovIlya&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RudakovIlya&theme=tokyonight)](https://github.com/RudakovIlya/github-readme-stats)
   
 </div>
 
