@@ -38,20 +38,6 @@
    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git"/>
 </div>
 
-<h3 align="center">Most Used Languages</h3>
-<div align="center">
-  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudakovIlya&theme=tokyonight)
-  
-</div>
-
-<h3 align="center">Stats</h3>
-<div align="center"> 
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RudakovIlya&theme=tokyonight)](https://github.com/RudakovIlya/github-readme-stats)
-  
-</div>
-
 <h3 align="center">Codewars</h3>  
 <div align="center">
   
