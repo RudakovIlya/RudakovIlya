@@ -39,7 +39,7 @@
 <h3 align="center">Most Used Languages</h3>
 
 <div align="center">
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudakovIlya&theme=tokyonight)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudakovIlya&theme=tokyonight)
 </div>
 
 <h3 align="center">Stats</h3>
