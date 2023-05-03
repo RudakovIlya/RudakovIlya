@@ -48,7 +48,7 @@
 
 <div align="center"> 
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RudakovIlya&theme=tokyonight)](https://github.com/RudakovIlya/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RudakovIlya&theme=tokyonight)
   
 </div>
 
