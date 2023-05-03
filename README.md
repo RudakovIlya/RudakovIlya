@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
 <h3 align="center">A junior frontend developer from Russia</h3>
-
 <div align="center">
    <h3 align="center">Contacts</h3>
    <a href="https://www.linkedin.com/in/ilya-rudakov-14b10a214/" target="_blank">
@@ -13,7 +12,6 @@
    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
-
 <h3 align="center">Stack</h3>
 <div align="center">
    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="react"/>
@@ -40,9 +38,7 @@
 
 <h3 align="center">Most Used Languages</h3>
 <div align="center">
-  
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudakovIlya&theme=tokyonight)
-  
 </div>
 
 <h3 align="center">Stats</h3>
