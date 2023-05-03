@@ -39,18 +39,21 @@
 <h3 align="center">Most Used Languages</h3>
 
 <div align="center">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudakovIlya&theme=tokyonight)
+   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RudakovIlya&theme=tokyonight)
+   
 </div>
 
 <h3 align="center">Stats</h3>
 
 <div align="center"> 
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RudakovIlya&theme=tokyonight)](https://github.com/RudakovIlya/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RudakovIlya&theme=tokyonight)](https://github.com/RudakovIlya/github-readme-stats)
   
 </div>
 
 <h3 align="center">Codewars</h3>  
+
 <div align="center">
   
 ![Codewars](https://github.r2v.ch/codewars?user=asap_alh&stroke=tokyonight)
