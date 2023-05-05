@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilya</h1>
+
 <h3 align="center">A junior frontend developer from Russia</h3>
+
 <div align="center">
    <h3 align="center">Contacts</h3>
    <a href="https://www.linkedin.com/in/ilya-rudakov-14b10a214/" target="_blank">
