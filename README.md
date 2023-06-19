@@ -46,8 +46,11 @@
 </div>
 
 <h3 align="center">Stats</h3>
+
 <div align="center"> 
+   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RudakovIlya&theme=tokyonight)
+
 </div>
 
 <h3 align="center">Codewars</h3>  
