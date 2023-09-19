@@ -57,6 +57,6 @@
 
 <div align="center">
    
-![Codewars](https://github.r2v.ch/codewars?user=asap_alh&stroke=tokyonight)
+![Codewars](https://github.r2v.ch/codewars?user=rsschool_fa52ce3af42956ba&stroke=tokyonight)
   
 </div>
